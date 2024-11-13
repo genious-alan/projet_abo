@@ -1,0 +1,11 @@
+ .service1, .service2, .service3, .service4{
+    text-align:center;
+}
+.entete{
+    text-align:center;
+    text-shadow: 10px;
+    border: 20px dashed gray;
+}
+body{
+    background-color: burlywood;
+}
